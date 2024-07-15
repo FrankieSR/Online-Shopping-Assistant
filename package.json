@@ -1,0 +1,19 @@
+{
+    "name": "online-shopping-assistant",
+    "version": "0.0.1",
+    "description": "Online Shopping Assistant",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/FrankieSR/Online-Shopping-Assistant.git"
+    },
+    "author": "Artem Doroshko",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/FrankieSR/Online-Shopping-Assistant/issues"
+    },
+    "homepage": "https://github.com/FrankieSR/Online-Shopping-Assistant#readme"
+}
